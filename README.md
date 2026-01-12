@@ -14,9 +14,7 @@ developer focused on continuous learning, practical projects, and steady growth 
 💻 CSS  
 💻 JavaScript  
 🐍 Python  
-⚙️ C#  
 ⚙️ C++  
-🌙 Lua  
 🧩 Pawn  
 
 —
