@@ -13,10 +13,9 @@ developer focused on continuous learning, practical projects, and steady growth 
 💻 HTML  
 💻 CSS  
 💻 JavaScript  
-🐍 Python  
 ⚙️ C++  
 🧩 Pawn  
-
+🧩 XML
 —
 
 ### projects  
