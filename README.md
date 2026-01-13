@@ -1,28 +1,31 @@
-# Alguem
+# Miguel
 
-someone in constant evolution.
+Developer focused on building systems, interfaces, and functional solutions through code.
 
-—
+---
 
-### about  
-developer focused on continuous learning, practical projects, and steady growth through code.
+## About
+My name is Miguel. I am a developer interested in systems development, web interfaces, and server-based projects.  
+I focus on creating organized, scalable solutions while continuously improving my technical skills through practice.
 
-—
+---
 
-### technologies  
-💻 HTML  
-💻 CSS  
-💻 JavaScript  
-⚙️ C++  
-🧩 Pawn  
-🧩 XML
-—
+## Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- C++  
+- Pawn  
+- XML  
 
-### projects  
-🚧 work in progress.
+---
 
-—
+## Projects
+🚧 Work in progress.  
+Personal projects focused on systems, servers, and interactive experiences.
 
-### contact  
-📧 email: eualguemdev@gmail.com
-💬 discord: alguém.dev
+---
+
+## Contact
+📧 Email: eualguemdev@gmail.com  
+💬 Discord: alguém.dev
