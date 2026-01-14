@@ -14,7 +14,7 @@ I focus on creating organized, scalable solutions while continuously improving m
 - HTML  
 - CSS  
 - JavaScript  
-- C++  
+- php
 - Pawn  
 - XML  
 
