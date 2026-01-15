@@ -16,7 +16,8 @@ I focus on creating organized, scalable solutions while continuously improving m
 - JavaScript  
 - php
 - Pawn  
-- XML  
+- XML
+- MySQL
 
 ---
 
