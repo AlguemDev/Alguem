@@ -15,9 +15,11 @@ I focus on creating organized, scalable solutions while continuously improving m
 - CSS  
 - JavaScript  
 - php
+- Python
 - Pawn  
 - XML
 - MySQL
+  
 
 ---
 
